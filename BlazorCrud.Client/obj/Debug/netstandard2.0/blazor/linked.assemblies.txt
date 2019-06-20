@@ -1,0 +1,16 @@
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\BlazorCrud.Client.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\BlazorCrud.Shared.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.Browser.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.AspNetCore.Blazor.TagHelperWorkaround.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\Microsoft.JSInterop.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\Mono.WebAssembly.Interop.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\mscorlib.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\System.ComponentModel.Annotations.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\System.Core.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\System.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\System.Net.Http.dll
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\BlazorCrud.Client.pdb
+C:\Users\bins\Desktop\BlazorCrud\BlazorCrud\BlazorCrud.Client\obj\Debug\netstandard2.0\blazor\linker\BlazorCrud.Shared.pdb
